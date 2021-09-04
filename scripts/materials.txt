@@ -1,64 +1,64 @@
 ;Acid
-player.additem 001bf72d
+player.additem 001bf72d 5000
 ;Adhesive
-player.additem 001bf72e
+player.additem 001bf72e 5000
 ;Aluminum
-player.additem 0006907a
+player.additem 0006907a 5000
 ;Antiseptic
-player.additem 001bf72f
+player.additem 001bf72f 5000
 ;Asbestos
-player.additem 000aec5c
+player.additem 000aec5c 5000
 ;Ballistic Fiber
-player.additem 000aec5b
+player.additem 000aec5b 5000
 ;Bone
-player.additem 000aec5d
+player.additem 000aec5d 5000
 ;Ceramic
-player.additem 000aec5e
+player.additem 000aec5e 5000
 ;Circuitry
-player.additem 0006907b
+player.additem 0006907b 5000
 ;Cloth
-player.additem 000aec5f
+player.additem 000aec5f 5000
 ;Concrete
-player.additem 00106d99
+player.additem 00106d99 5000
 ;Copper
-player.additem 0006907c
+player.additem 0006907c 5000
 ;Cork
-player.additem 000aec60
+player.additem 000aec60 5000
 ;Crystal
-player.additem 0006907d
+player.additem 0006907d 5000
 ;Fertilizer
-player.additem 001bf730
+player.additem 001bf730 5000
 ;Fiber Optics
-player.additem 00069087
+player.additem 00069087 5000
 ;Fiberglass
-player.additem 000aec61
+player.additem 000aec61 5000
 ;Gears
-player.additem 0006907e
+player.additem 0006907e 5000
 ;Glass
-player.additem 00069085
+player.additem 00069085 5000
 ;Gold
-player.additem 000aec62
+player.additem 000aec62 5000
 ;Lead
-player.additem 000aec63
+player.additem 000aec63 5000
 ;Leather
-player.additem 000aec64
+player.additem 000aec64 5000
 ;Nuclear Material
-player.additem 00069086
+player.additem 00069086 5000
 ;Oil
-player.additem 001bf732
+player.additem 001bf732 5000
 ;Plastic
-player.additem 0006907f
+player.additem 0006907f 5000
 ;Rubber
-player.additem 00106d98
+player.additem 00106d98 5000
 ;Screw
-player.additem 00069081
+player.additem 00069081 5000
 ;Silber
-player.additem 000aec66
+player.additem 000aec66 5000
 ;Spring
-player.additem 00069082
+player.additem 00069082 5000
 ;Steel
-player.additem 000731a4
+player.additem 000731a4 5000
 ;Wood
-player.additem 000731a3
+player.additem 000731a3 5000
 
 ;Codes from https://falloutcheats.com/items/material
