@@ -1,0 +1,64 @@
+;Acid
+player.additem 001bf72d
+;Adhesive
+player.additem 001bf72e
+;Aluminum
+player.additem 0006907a
+;Antiseptic
+player.additem 001bf72f
+;Asbestos
+player.additem 000aec5c
+;Ballistic Fiber
+player.additem 000aec5b
+;Bone
+player.additem 000aec5d
+;Ceramic
+player.additem 000aec5e
+;Circuitry
+player.additem 0006907b
+;Cloth
+player.additem 000aec5f
+;Concrete
+player.additem 00106d99
+;Copper
+player.additem 0006907c
+;Cork
+player.additem 000aec60
+;Crystal
+player.additem 0006907d
+;Fertilizer
+player.additem 001bf730
+;Fiber Optics
+player.additem 00069087
+;Fiberglass
+player.additem 000aec61
+;Gears
+player.additem 0006907e
+;Glass
+player.additem 00069085
+;Gold
+player.additem 000aec62
+;Lead
+player.additem 000aec63
+;Leather
+player.additem 000aec64
+;Nuclear Material
+player.additem 00069086
+;Oil
+player.additem 001bf732
+;Plastic
+player.additem 0006907f
+;Rubber
+player.additem 00106d98
+;Screw
+player.additem 00069081
+;Silber
+player.additem 000aec66
+;Spring
+player.additem 00069082
+;Steel
+player.additem 000731a4
+;Wood
+player.additem 000731a3
+
+;Codes from https://falloutcheats.com/items/material
