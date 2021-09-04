@@ -1,4 +1,4 @@
 ;Mutfruit
 player.additem 00033102 50
 
-;Codes from https://fallout.fandom.com/wiki/
+;Codes from https://fallout.fandom.com/wiki
